@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>welcome to equotatio</div>;
+  return <div>welcome to  ok</div>;
 }
